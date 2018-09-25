@@ -23,7 +23,7 @@ The two most time consuming parts to this (for me) are the research and planning
 
 Getting familiar with all the various subsystems, and learning about how things like RAM, Arithmetic Logic Units, Registers, etc. work took a large amount of time. At this point I've already designed, built and succesfully tested the clock circuit.
 
-![1](https://lh3.googleusercontent.com/FS6w4m2e8pii9Z1oz3WwmEprHnBDDs-JRLz8bvKE7lH6wFhR4spKnxLRgqs37KZ2QtcpMm8LDjScWT-GkDyGG7sWnDWx-o2P20GCP6_v39tsnVzx_WQ-rqy6BIXuJUZDtjTTnwjpyvzsxtSGTOr9DjDNaBGei_1If7PsFrl1Tv4fnlLCTZl6q4UGOMFwmDbxOdafRrSQGMn-HWP6lK6kmKTGEo-XTSLPSFfiwTdWq1Z0rdchfzuu9Iz78ChcPp0EC6mgtNEH34m5IVbDrACr4vzRUkGDR7ar6xQnHB2XHmgIum4OiSYbgcjsqbYFlJ_WkmHrfV8w0XNRtKsvErndYjeg8rGkEHqTtqPtZYJcc-0kp6O-2WgS79084RDPmUXvX5rAuif943Dhny9bDaUcWlIv5t9POWfr2R9C5h2-VLkwSxx8d2agdRw8qaQoSNMoYDOswXxLn6nWuK_vdFXBNo0v2DdWHeA2XJg-nmDxTcCpxgc-DIL_17D5vfoa5lixO2NokmBxTWwgiuzRXvsAS27DGm4fdQ07fdwVOk7gP4KjgthVui2nEN7Gc5JN4wDIuwq3BDSw6rv4o73qdZJyHJsgCcATur3AJtyffMRriMBa-YTeFNT3J4DK6dtM0NGn=w870-h775-no)
+![1](https://imgur.com/7v2x1xt.png)
 
 My expected time to complete design is around the start of October, depending on how busy I get with school.
 
